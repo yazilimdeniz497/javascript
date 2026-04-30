@@ -1,0 +1,13 @@
+var urunAdi="iphone 12";
+var urunFiyati=150000;
+console.log(typeof urunAdi);
+console.log(typeof urunFiyati);
+var sayi1=10;
+var sayi2=30;
+console.log(sayi1.toString()+sayi2.toString());
+let isim="sena";
+let soyisim="turan";
+console.log(isim+" "+soyisim);
+let sinavNotu=70;
+var basariliMi=(sinavNotu>50);
+console.log(basariliMi);
