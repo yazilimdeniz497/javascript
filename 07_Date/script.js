@@ -1,0 +1,11 @@
+let simdi=new Date();
+sonuc=simdi;
+sonuc=simdi.getDate();
+sonuc=simdi.getDay();
+sonuc=simdi.getHours();
+sonuc=simdi.getMinutes();
+sonuc=simdi.setFullYear(2025);
+sonuc=simdi.getFullYear();
+simdi.setMonth(8);
+sonuc=simdi.getMonth();
+console.log(sonuc);
